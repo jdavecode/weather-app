@@ -1,3 +1,5 @@
+// unfinished project
+
 const api = {
   key: "e0d47e0c05eeef3be42132797ddfe57c",
   base: "api.openweathermap.org/data/2.5/",
